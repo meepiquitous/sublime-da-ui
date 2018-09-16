@@ -71,18 +71,15 @@ Please fill out the issue template when reporting a bug or suggestion.
 
 ## Pricing
 
-DA UI is absolutely free during the beta period. Pricing will be announced later this year.
+DA UI is absolutely free ~~during the beta period. Pricing will be announced later this year~~ forever.
 
-In any case there will be available evaluation mode. This mode includes full functionality and there is no time limit, however, continued usage requires the purchase of a license.
+~~In any case there will be available evaluation mode. This mode includes full functionality and there is no time limit, however, continued usage requires the purchase of a license.~~ (╯°□°)╯︵ ┻━┻
 
 
 
 ## Privacy
 
-We take your privacy seriously and will take all measures to protect your personal information.
-
-Any personal information received will only be used to fill your order. We will not sell or redistribute your information to anyone.
-
+We take your privacy seriously blah blah nobody will ever read this
 
 
 ## Additional Information
